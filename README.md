@@ -1,140 +1,114 @@
-<h1 align="center">
-  Hi 👋 I'm Riccardo
-</h1>
-
-<h3 align="center">
-  Full Stack Developer • Flutter Developer • AI Enthusiast
-</h3>
-
 <p align="center">
-  I build full-stack applications, mobile apps, backend architectures
-  and AI-powered tools.
+  <img src="./assets/header.svg" width="100%" alt="Riccardo Sensi — Full Stack Developer" />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+Developer;TypeScript+%7C+Node.js+%7C+PostgreSQL;Docker+%7C+Linux+%7C+Nginx;AI+Agents+Builder;Open+Source+Contributor"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Full+Stack+Developer;Flutter+Developer;TypeScript+%7C+Node.js+%7C+PostgreSQL;Docker+%7C+Linux+%7C+Nginx;AI+Agents+%26+Developer+Tools;Open+Source+Contributor"
     alt="Typing animation"
   />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/riccardo-sensi-developer">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://github.com/riccardosensi99">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=riccardosensi99&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** focused on building complete and maintainable applications, from database design and backend APIs to responsive frontends and mobile apps.
+I'm a **Full Stack Developer from Italy** focused on building complete, maintainable software solutions — from database design and backend APIs to responsive web interfaces and cross-platform mobile applications.
 
-I mainly work with **TypeScript, Node.js, PostgreSQL, React, Vue and Flutter**.  
-I also use **Docker, Linux, Nginx and CI/CD workflows** to deploy and manage applications.
+I mainly work with **TypeScript, Node.js, PostgreSQL, React, Vue and Flutter**. I also use **Docker, Linux, Nginx and GitHub Actions** to ship and manage applications across development and production environments.
 
-- 💻 Full Stack Developer
-- 📱 Flutter Developer
-- ⚙️ REST API and backend architecture
-- 🗄️ Database design and ORM integration
-- 🐳 Docker and Linux environments
-- 🤖 AI tools and agent integrations
-- ❤️ Open-source contributor
+I enjoy solving real-world problems, improving developer workflows and experimenting with **AI agents, automation and LLM integrations**.
+
+---
+
+## 🧩 Core Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20TypeScript-0f172a?style=for-the-badge&labelColor=1e293b" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-0f172a?style=for-the-badge&labelColor=1e293b" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS%20%7C%20Express-0f172a?style=for-the-badge&labelColor=1e293b" alt="Backend" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20Prisma%20%7C%20MySQL-0f172a?style=for-the-badge&labelColor=1e293b" alt="Data" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux%20%7C%20Nginx-0f172a?style=for-the-badge&labelColor=1e293b" alt="DevOps" />
+  <img src="https://img.shields.io/badge/AI-Agents%20%7C%20LLMs%20%7C%20Automation-0f172a?style=for-the-badge&labelColor=1e293b" alt="AI" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend and Mobile
+### Frontend & Mobile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,ts,js,html,css,tailwind,bootstrap" alt="Frontend and mobile technologies" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,ts,js,html,css,tailwind,bootstrap" alt="Frontend and mobile stack" />
 </p>
 
-### Backend and Database
+### Backend & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,python,postgres,mysql,mongodb,prisma" alt="Backend and database technologies" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,python,postgres,mysql,mongodb,prisma" alt="Backend and data stack" />
 </p>
 
-### DevOps and Tools
+### DevOps & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode,postman,figma" alt="DevOps and development tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode,postman,figma" alt="DevOps and tools" />
 </p>
 
 ---
 
-## 🔨 What I Build
+## 🚀 What I Build
 
-- Full-stack web platforms
+- Full-stack web platforms and administrative dashboards
 - Flutter applications for Android and iOS
-- REST APIs and authentication systems
-- PostgreSQL database architectures
+- REST APIs, authentication systems and backend architectures
+- PostgreSQL databases and ORM integrations
 - Dockerized development and production environments
-- Administrative dashboards
-- AI-powered tools and agents
-- Open-source libraries and developer tools
+- AI-powered tools, agents and workflow automations
+- Open-source libraries and reusable developer tooling
 
 ---
 
-## 🚀 Currently Working On
+## 🔭 Currently Working On
 
 - Full-stack applications with TypeScript and PostgreSQL
 - Flutter mobile applications
 - AI agents and LLM integrations
 - Docker-based deployment infrastructure
-- Open-source projects
+- Open-source projects and developer tools
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="./profile/stats.svg" height="180" alt="Riccardo's GitHub stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Riccardo's most used languages" />
 </p>
 
-## 📈 Contribution Activity
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=riccardosensi99&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=riccardosensi99&theme=tokyo-night&hide_border=true&area=true&radius=12"
+    width="100%"
     alt="Riccardo's contribution graph"
   />
 </p>
 
 ---
 
-## 📫 Contact
-
-<p align="center">
-  <a href="https://linkedin.com/in/riccardo-sensi-developer">
-    <img
-      src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
-    />
-  </a>
-</p>
-## 🐍 Contributions
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -147,8 +121,35 @@ I also use **Docker, Linux, Nginx and CI/CD workflows** to deploy and manage app
       srcset="https://raw.githubusercontent.com/riccardosensi99/riccardosensi99/output/github-contribution-grid-snake.svg"
     />
     <img
+      width="100%"
       alt="GitHub contribution snake"
       src="https://raw.githubusercontent.com/riccardosensi99/riccardosensi99/output/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-0f172a?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Cloud_Infrastructure-0f172a?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/Advanced_Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=white" alt="Advanced Flutter" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://linkedin.com/in/riccardo-sensi-developer">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting. Let's build something useful.</sub>
 </p>
