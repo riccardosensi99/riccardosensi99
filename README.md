@@ -3,16 +3,17 @@
 </h1>
 
 <h3 align="center">
-  Flutter Developer • Full Stack Developer • AI Enthusiast
+  Full Stack Developer • Flutter Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-  Building mobile apps, backend architectures, AI tools and open-source projects.
+  I build full-stack applications, mobile apps, backend architectures
+  and AI-powered tools.
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full+Stack+Developer;Docker+%7C+PostgreSQL+%7C+TypeScript;Linux+Lover;AI+Agents+Builder;Open+Source+Contributor"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+Developer;TypeScript+%7C+Node.js+%7C+PostgreSQL;Docker+%7C+Linux+%7C+Nginx;AI+Agents+Builder;Open+Source+Contributor"
     alt="Typing animation"
   />
 </p>
@@ -33,96 +34,88 @@
   </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** focused on building complete and maintainable applications, from database design and backend APIs to responsive frontends and mobile apps.
+
+I mainly work with **TypeScript, Node.js, PostgreSQL, React, Vue and Flutter**.  
+I also use **Docker, Linux, Nginx and CI/CD workflows** to deploy and manage applications.
+
+- 💻 Full Stack Developer
+- 📱 Flutter Developer
+- ⚙️ REST API and backend architecture
+- 🗄️ Database design and ORM integration
+- 🐳 Docker and Linux environments
+- 🤖 AI tools and agent integrations
+- ❤️ Open-source contributor
+
+---
+
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nodejs,react,vue,python,php,postgres,mysql,docker,linux,git,github,vscode,figma,postman"
-    alt="Tech Stack"
-  />
+### Frontend and Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,ts,js,html,css,tailwind,bootstrap" alt="Frontend and mobile technologies" />
 </p>
 
-## 🚀 About Me
+### Backend and Database
 
-- 📱 Flutter Developer
-- 💻 Full Stack Developer
-- 🤖 AI Agents Builder
-- 🐳 Docker Enthusiast
-- 🐧 Linux User — Arch BTW 😎
-- 🏍️ Motorcycle Rider
-- ❤️ Open Source Contributor
-
-## 🔨 Current Projects
-
-- 🤖 AI Trading Platform
-- 📱 Flutter Applications
-- ⚙️ Backend APIs
-- 🐳 Docker Infrastructure
-- 🔥 Open Source Libraries
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=riccardosensi99&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardosensi99&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,python,postgres,mysql,mongodb,prisma" alt="Backend and database technologies" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=riccardosensi99&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+### DevOps and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode,postman,figma" alt="DevOps and development tools" />
 </p>
+
+---
+
+## 🔨 What I Build
+
+- Full-stack web platforms
+- Flutter applications for Android and iOS
+- REST APIs and authentication systems
+- PostgreSQL database architectures
+- Dockerized development and production environments
+- Administrative dashboards
+- AI-powered tools and agents
+- Open-source libraries and developer tools
+
+---
+
+## 🚀 Currently Working On
+
+- Full-stack applications with TypeScript and PostgreSQL
+- Flutter mobile applications
+- AI agents and LLM integrations
+- Docker-based deployment infrastructure
+- Open-source projects
+
+---
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=riccardosensi99&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=riccardosensi99&theme=tokyo-night&hide_border=true&area=true"
+    alt="Riccardo's contribution graph"
   />
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+## 📫 Contact
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=riccardosensi99&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=riccardosensi99&label=Profile+Views&color=00c0af&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
-## 🐍 Contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/riccardosensi99/riccardosensi99/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/riccardosensi99/riccardosensi99/output/github-contribution-grid-snake.svg"
-    />
+  <a href="https://linkedin.com/in/riccardo-sensi-developer">
     <img
-      src="https://raw.githubusercontent.com/riccardosensi99/riccardosensi99/output/github-contribution-grid-snake.svg"
-      alt="Contribution Snake"
+      src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
     />
-  </picture>
+  </a>
 </p>
