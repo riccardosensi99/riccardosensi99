@@ -24,6 +24,13 @@
       alt="LinkedIn"
     />
   </a>
+
+  <a href="https://github.com/riccardosensi99">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 </p>
 
 ## 🛠️ Tech Stack
@@ -58,20 +65,20 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=riccardosensi99&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUOUSERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardosensi99&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=TUOUSERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=riccardosensi99&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -80,7 +87,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TUOUSERNAME&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=riccardosensi99&theme=tokyo-night&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
@@ -89,14 +96,14 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=TUOUSERNAME&theme=tokyonight&row=1&column=6&no-frame=true"
+    src="https://github-profile-trophy.vercel.app/?username=riccardosensi99&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"
     alt="GitHub Trophies"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=TUOUSERNAME&label=Profile+Views&color=00c0af&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=riccardosensi99&label=Profile+Views&color=00c0af&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
@@ -104,8 +111,18 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/TUOUSERNAME/TUOUSERNAME/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/riccardosensi99/riccardosensi99/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/riccardosensi99/riccardosensi99/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/riccardosensi99/riccardosensi99/output/github-contribution-grid-snake.svg"
+      alt="Contribution Snake"
+    />
+  </picture>
 </p>
