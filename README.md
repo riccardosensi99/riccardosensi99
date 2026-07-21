@@ -98,6 +98,21 @@ I also use **Docker, Linux, Nginx and CI/CD workflows** to deploy and manage app
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
 ## 📈 Contribution Activity
 
 <p align="center">
