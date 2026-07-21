@@ -130,6 +130,29 @@ I enjoy solving real-world problems, improving developer workflows and experimen
 
 ---
 
+## 🎧 What I Listen To
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/28Wu9YxNhhsV7AoFa5QYKe" target="_blank">
+    <img
+      src="./assets/spotify-card.svg"
+      width="760"
+      alt="Open Riccardo's Spotify playlist"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/28Wu9YxNhhsV7AoFa5QYKe">
+    <img
+      src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+      alt="Listen on Spotify"
+    />
+  </a>
+</p>
+
+---
+
 ## 📚 Currently Learning
 
 <p align="center">
