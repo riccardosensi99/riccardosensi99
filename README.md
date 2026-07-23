@@ -99,16 +99,11 @@ I enjoy solving real-world problems, improving developer workflows and experimen
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="Riccardo's GitHub stats" />
-  <img src="./profile/top-langs.svg" width="49%" alt="Riccardo's most used languages" />
+  <img src="./profile/top-langs.svg" width="58%" alt="Riccardo's most used languages" />
 </p>
 
 <p align="center">
   <img src="./profile/streak.svg" width="100%" alt="Riccardo's contribution streak" />
-</p>
-
-<p align="center">
-  <img src="./profile/contributions.svg" width="100%" alt="Riccardo's contribution activity" />
 </p>
 
 <p align="center">
@@ -143,15 +138,6 @@ I enjoy solving real-world problems, improving developer workflows and experimen
       src="./assets/spotify-card.svg"
       width="760"
       alt="Open Riccardo's Spotify playlist"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/28Wu9YxNhhsV7AoFa5QYKe">
-    <img
-      src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
-      alt="Listen on Spotify"
     />
   </a>
 </p>
