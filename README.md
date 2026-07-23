@@ -16,6 +16,9 @@
   <a href="https://github.com/riccardosensi99">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.instagram.com/riccardosensi_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=riccardosensi99&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -81,13 +84,15 @@ I enjoy solving real-world problems, improving developer workflows and experimen
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Current Focus
 
-- Full-stack applications with TypeScript and PostgreSQL
-- Flutter mobile applications
-- AI agents and LLM integrations
-- Docker-based deployment infrastructure
-- Open-source projects and developer tools
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-0f172a?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Cloud_Infrastructure-0f172a?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/Advanced_Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=white" alt="Advanced Flutter" />
+</p>
 
 ---
 
@@ -105,10 +110,6 @@ I enjoy solving real-world problems, improving developer workflows and experimen
     alt="Riccardo's contribution graph"
   />
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -130,10 +131,14 @@ I enjoy solving real-world problems, improving developer workflows and experimen
 
 ---
 
-## 🎧 What I Listen To
+## ⚡ Beyond Code
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/28Wu9YxNhhsV7AoFa5QYKe" target="_blank">
+  🏍️ Motorcycle enthusiast &nbsp;•&nbsp; 🐧 Linux daily driver &nbsp;•&nbsp; 🤖 AI & automation &nbsp;•&nbsp; 🎧 Always coding with music
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/28Wu9YxNhhsV7AoFa5QYKe">
     <img
       src="./assets/spotify-card.svg"
       width="760"
@@ -149,18 +154,12 @@ I enjoy solving real-world problems, improving developer workflows and experimen
       alt="Listen on Spotify"
     />
   </a>
-</p>
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-0f172a?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Cloud_Infrastructure-0f172a?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Infrastructure" />
-  <img src="https://img.shields.io/badge/Advanced_Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=white" alt="Advanced Flutter" />
+  <a href="https://www.instagram.com/riccardosensi_/">
+    <img
+      src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Follow on Instagram"
+    />
+  </a>
 </p>
 
 ---
@@ -170,6 +169,12 @@ I enjoy solving real-world problems, improving developer workflows and experimen
 <p align="center">
   <a href="https://linkedin.com/in/riccardo-sensi-developer">
     <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/riccardosensi99">
+    <img src="https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" />
+  </a>
+  <a href="https://www.instagram.com/riccardosensi_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
