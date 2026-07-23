@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="175" viewBox="0 0 760 175" role="img" aria-label="Contribution Streak">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#70a5fd"/><stop offset="100%" stop-color="#bb9af7"/></linearGradient>
+  </defs>
+  <rect width="760" height="175" rx="14" fill="#1a1b27"/>
+  <rect x="1" y="1" width="758" height="173" rx="13" fill="none" stroke="#30363d"/>
+  <text x="24" y="34" fill="#70a5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">Contribution Streak</text>
+  <text x="127" y="103" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">1</text>
+  <text x="127" y="131" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Current streak</text>
+  <line x1="253" y1="58" x2="253" y2="150" stroke="#30363d"/>
+  <text x="380" y="103" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">3</text>
+  <text x="380" y="131" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Longest streak</text>
+  <line x1="506" y1="58" x2="506" y2="150" stroke="#30363d"/>
+  <text x="633" y="103" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">21</text>
+  <text x="633" y="131" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Active days / year</text>
+</svg>
