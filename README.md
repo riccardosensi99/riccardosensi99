@@ -99,16 +99,16 @@ I enjoy solving real-world problems, improving developer workflows and experimen
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="Riccardo's GitHub stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Riccardo's most used languages" />
+  <img src="./profile/stats.svg" width="49%" alt="Riccardo's GitHub stats" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Riccardo's most used languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=riccardosensi99&theme=tokyo-night&hide_border=true&area=true&radius=12"
-    width="100%"
-    alt="Riccardo's contribution graph"
-  />
+  <img src="./profile/streak.svg" width="100%" alt="Riccardo's contribution streak" />
+</p>
+
+<p align="center">
+  <img src="./profile/contributions.svg" width="100%" alt="Riccardo's contribution activity" />
 </p>
 
 <p align="center">
@@ -166,7 +166,8 @@ I enjoy solving real-world problems, improving developer workflows and experimen
   </a>
   <a href="https://github.com/riccardosensi99">
     <img src="https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" />
-  </p>
+  </a>
+</p>
 
 <p align="center">
   <sub>Thanks for visiting. Let's build something useful.</sub>
