@@ -31,12 +31,26 @@ jobs:
           UTC_OFFSET: 2
           AUTO_PUSH: false
 
-      - name: Prepare generated cards
+      - name: Inspect and prepare generated cards
+        shell: bash
         run: |
+          set -euo pipefail
           mkdir -p profile
-          cp profile-summary-card-output/tokyonight/3-stats.svg profile/stats.svg
-          cp profile-summary-card-output/tokyonight/1-repos-per-language.svg profile/top-langs.svg
-          cp profile-summary-card-output/tokyonight/0-profile-details.svg profile/contributions.svg
+
+          echo "Generated files:"
+          find profile-summary-card-output -type f -name '*.svg' -print
+
+          STATS_FILE=$(find profile-summary-card-output -type f -path '*/tokyonight/3-stats.svg' | head -n 1)
+          LANGS_FILE=$(find profile-summary-card-output -type f -path '*/tokyonight/1-repos-per-language.svg' | head -n 1)
+          DETAILS_FILE=$(find profile-summary-card-output -type f -path '*/tokyonight/0-profile-details.svg' | head -n 1)
+
+          test -n "$STATS_FILE"
+          test -n "$LANGS_FILE"
+          test -n "$DETAILS_FILE"
+
+          cp "$STATS_FILE" profile/stats.svg
+          cp "$LANGS_FILE" profile/top-langs.svg
+          cp "$DETAILS_FILE" profile/contributions.svg
 
       - name: Generate contribution streak card
         uses: actions/github-script@v7
@@ -44,7 +58,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
-
             const login = context.repo.owner;
             const now = new Date();
             const from = new Date(now);
@@ -130,11 +143,17 @@ jobs:
             fs.writeFileSync('profile/streak.svg', svg.trim());
 
       - name: Commit generated cards
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/*.svg profile-summary-card-output/
-          git diff --cached --quiet && exit 0
+          git add profile/*.svg
+          if git diff --cached --quiet; then
+            echo "No card changes to commit"
+            exit 0
+          fi
+
           git commit -m "chore: update GitHub activity cards"
           git push
