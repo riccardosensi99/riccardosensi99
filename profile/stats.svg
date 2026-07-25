@@ -5,16 +5,16 @@
   <rect width="760" height="185" rx="14" fill="#1a1b27"/>
   <rect x="1" y="1" width="758" height="183" rx="13" fill="none" stroke="#30363d"/>
   <text x="24" y="34" fill="#70a5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">GitHub Stats</text>
-  <text x="95" y="92" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700">22</text>
+  <text x="95" y="92" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700">24</text>
   <text x="95" y="120" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Public repositories</text>
   <line x1="187" y1="58" x2="187" y2="136" stroke="#30363d"/>
-  <text x="280" y="92" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700">1</text>
+  <text x="280" y="92" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700">2</text>
   <text x="280" y="120" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Stars earned</text>
   <line x1="372" y1="58" x2="372" y2="136" stroke="#30363d"/>
   <text x="465" y="92" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700">4</text>
   <text x="465" y="120" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Followers</text>
   <line x1="557" y1="58" x2="557" y2="136" stroke="#30363d"/>
-  <text x="650" y="92" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700">21</text>
+  <text x="650" y="92" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700">22</text>
   <text x="650" y="120" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Active days / year</text>
-  <text x="24" y="162" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">riccardosensi99 · 22 original repositories · 0 forks</text>
+  <text x="24" y="162" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">riccardosensi99 · 24 original repositories · 0 forks</text>
 </svg>
