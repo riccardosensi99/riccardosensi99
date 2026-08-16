@@ -8,11 +8,11 @@
   <rect x="24.0" y="54" width="341.3" height="10" fill="#3178c6"/>
   <rect x="365.3" y="54" width="112.4" height="10" fill="#4F5D95"/>
   <rect x="477.7" y="54" width="111.2" height="10" fill="#f1e05a"/>
-  <rect x="589.0" y="54" width="44.0" height="10" fill="#3572A5"/>
+  <rect x="588.9" y="54" width="44.0" height="10" fill="#3572A5"/>
   <rect x="632.9" y="54" width="38.7" height="10" fill="#41b883"/>
   <rect x="671.6" y="54" width="36.0" height="10" fill="#563d7c"/>
-  <rect x="707.7" y="54" width="16.8" height="10" fill="#7aa2f7"/>
-  <rect x="724.5" y="54" width="11.5" height="10" fill="#e34c26"/>
+  <rect x="707.6" y="54" width="16.8" height="10" fill="#7aa2f7"/>
+  <rect x="724.4" y="54" width="11.6" height="10" fill="#e34c26"/>
   <circle cx="34" cy="88" r="5" fill="#3178c6"/>
   <text x="48" y="92" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">TypeScript 47.9%</text>
   <circle cx="389" cy="88" r="5" fill="#4F5D95"/>
