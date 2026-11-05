@@ -5,7 +5,7 @@
   <rect width="760" height="175" rx="14" fill="#1a1b27"/>
   <rect x="1" y="1" width="758" height="173" rx="13" fill="none" stroke="#30363d"/>
   <text x="24" y="34" fill="#70a5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">Contribution Streak</text>
-  <text x="127" y="103" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">1</text>
+  <text x="127" y="103" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">0</text>
   <text x="127" y="131" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Current streak</text>
   <line x1="253" y1="58" x2="253" y2="150" stroke="#30363d"/>
   <text x="380" y="103" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">4</text>
